@@ -75,3 +75,9 @@
 // Log the results
 //console.log("Even numbers:", evenNumbers);
 //console.log("Odd numbers:", oddNumbers);
+
+//const numbers = [1,4,6]
+
+//onst Numbers=Math.min(...numbers)
+
+//console.log(Numbers)
