@@ -81,3 +81,24 @@
 //onst Numbers=Math.min(...numbers)
 
 //console.log(Numbers)
+
+
+
+// how to use a for loop
+
+//initialise it first 
+//eg i=0;
+//for (initialization; condition; increment) {
+    // Code to be executed
+//}
+
+//function  FirstFactorial(num){
+   // let result = 1
+    //for(let i = num ; i > 0; i--)
+   // {
+        //result *= i;
+    //}
+    //return result;
+//}
+
+//console .log(FirstFactorial(4))
