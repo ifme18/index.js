@@ -102,3 +102,11 @@
 //}
 
 //console .log(FirstFactorial(4))
+
+
+//function sum(a,b){
+   // return a+b
+//}
+//const results=sum(7,8)
+
+//console.log(results)
